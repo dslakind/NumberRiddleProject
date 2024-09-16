@@ -1,4 +1,3 @@
-# AP CSA Codespace
+# AP CSA Number Riddle Project
 ## Mr. Lakind
 
-We will use this codespace to run PLTW assignments and projects.
